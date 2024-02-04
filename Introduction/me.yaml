@@ -1,8 +1,28 @@
-name: Natazja
-age: 23
-single: true
-job: office assistent
-hobbies:
-  - sewing
-  - painting
-  - reading
+Name: Patrick
+Lastname: Bateman 
+Age: 62
+  - Birth year: 1962
+  - Birth date: 23. october 
+
+Occupation: Investment banker
+  - Title: Vice President
+  - Company: Pierce & Pierce
+
+Psycopath: true 
+
+Kill count: 16
+  - Men: 8
+  - Women: 8
+
+Hobbies:
+  - Working out
+  - Skin care
+  - Returning video tapes
+
+Favorite Music Artists:
+  - Genesis
+  - Huey Lewis and the News
+  - Whitney Houston
+  - Phil Collins
+
+Can get a table at Dorsia: false   
