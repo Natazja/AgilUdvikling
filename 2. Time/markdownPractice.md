@@ -8,5 +8,5 @@
 
 `println("This is a code snippet")`
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fdk%2Fsearch%3Fk%3Dsmiley&psig=AOvVaw0G-hBgjpUtZB_VcwmJeaye&ust=1707294708862000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMif9MamloQDFQAAAAAdAAAAABAE)
+![Billede](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/1200px-Italy_-_Pisa_-_Leaning_Tower.jpg)
 
